@@ -26,7 +26,7 @@ function Header2() {
         preload="auto"
         muted
         // poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/105988/boats-at-sea.jpg"
-        src="http://localhost:3000/welcome.mp4"
+        src="/welcome.mp4"
       />
     </Parallax>
   );
